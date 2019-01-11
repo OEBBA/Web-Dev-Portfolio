@@ -1,0 +1,27 @@
+body {
+  background-color: skyblue;
+}
+
+#text {
+  position: absolute;
+  background-color: white;
+  border: 3px solid lightblue;
+  right: 200px;
+  top: 300px;
+}
+
+button {
+  position: absolute;
+  right: 20%;
+  top: 60%;
+  width: 10%;
+  height: 10;
+  background-color: transparent;
+  border: none;
+}
+
+button {
+  img {
+    width: 100%;
+  }
+}
